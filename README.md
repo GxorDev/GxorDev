@@ -4,7 +4,7 @@
 
 
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, PHP, MYSQL...**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, C#, PHP, MYSQL...**
 
 - 📫 How to reach me **ortegaperezhector@gmail.com**
 
