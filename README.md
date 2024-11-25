@@ -1,4 +1,4 @@
-<h1 align="center">Hola!! 👋, me soy GxorDev🖥️</h1>
+<h1 align="center">Hola!! 👋, me soy Gxor🖥️</h1>
 <h3 align="center">Soy un apasionado fullstack developer de Madrid  </h3>  
 
 
